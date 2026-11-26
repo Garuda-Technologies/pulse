@@ -1,0 +1,3 @@
+-keep class com.vbs.pulse.MainActivity { *; }
+-keep class com.vbs.pulse.RingView { *; }
+-keep class com.vbs.pulse.SparkView { *; }
